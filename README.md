@@ -11,7 +11,7 @@ A new Flutter project.
 ![Home Screen](lib/assets/homepage.png)
 
 ### Question three
-![question three](lib/assets/question three.png)
+![question three](lib/assets/questionthree.png)
 
 ## Getting Started
 
