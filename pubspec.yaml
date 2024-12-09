@@ -1,0 +1,34 @@
+name: login_form
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # iOS-style icons
+  cupertino_icons: ^1.0.8
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Recommended lints for good coding practices
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Adding assets to the project
+  assets:
+    
+    - lib/assets/ageratum.jpg
+    - lib/assets/df.jpg
