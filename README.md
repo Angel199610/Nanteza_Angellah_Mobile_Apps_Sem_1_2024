@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+## Screenshots
+
+### Login Screen
+![Login Screen](lib/assets/login.png)
+
+### Home Screen
+![Home Screen](lib/assets/homepage.png)
+
+### Question three
+![question three](lib/assets/question three.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
